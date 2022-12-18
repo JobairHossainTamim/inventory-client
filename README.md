@@ -23,7 +23,10 @@
 
 ## Live Site Link
 
-https://inventory-client-seven.vercel.app/
+```bash
+https://inventory-client-one.vercel.app/
+```
+
 
 
 ### User Login
