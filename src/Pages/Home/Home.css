@@ -1,0 +1,23 @@
+.category{
+    border :2px solid rgb(179,176,176);
+    margin-right: 50px;
+    align-items: center;
+    padding-left:50px ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.category h4{
+    margin-right: 25px;
+    text-align: center;
+    align-items: center;
+
+}
+.category img{
+   border-top-right-radius: 10px;
+   border-bottom-right-radius:10px ;
+   padding: -10px !important;
+
+}
+.selected-category{
+    border :2px solid rgb(224, 23, 23);
+}
